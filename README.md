@@ -1,2 +1,2 @@
 # UNP-Machine-Learning-Customer-Churn-Classification-project
-This repository consists analysis of customer churn using machine learning.
+This repository consists analysis of customer churn using machine learning. Our dataset encompasses 3,150 customers, each described through 14 key features. Churn Status (0: No Churn, 1: Churn), reflecting customer retention and loss. Features range from Call Failures and Usage Patterns to Demographics and Tariff Plans, providing a holistic view of customer behavior.
